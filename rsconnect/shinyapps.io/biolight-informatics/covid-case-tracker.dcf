@@ -1,0 +1,12 @@
+name: covid-case-tracker
+title: covid-case-tracker
+username:
+account: biolight-informatics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3354135
+bundleId: 3944385
+url: https://biolight-informatics.shinyapps.io/covid-case-tracker/
+when: 1607107949.48344
+asMultiple: FALSE
+asStatic: FALSE
